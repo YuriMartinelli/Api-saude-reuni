@@ -1,0 +1,51 @@
+ID_Paciente,Nome,Data_Nascimento,Sexo,CPF,Cartao_SUS,Nome_Mãe,Etnia,Escolaridade,Estado_Civil,Naturalidade
+702,Marcelo Aragão,1967-08-14,Masculino,578.902.416-58,137879236312065,Bárbara Campos,Negra,Ensino Fundamental,Divorciado(a),Fernandes
+481,Sra. Eloah Pinto,1990-11-25,Masculino,105.426.938-60,874595333210063,Maria Luiza Jesus,Indígena,Ensino Médio,Solteiro(a),das Neves
+799,Matheus da Conceição,1972-03-12,Feminino,896.457.103-75,340700942544272,Sra. Yasmin Silva,Parda,Ensino Fundamental,Solteiro(a),da Luz Grande
+633,Luiz Otávio Cunha,1938-02-12,Masculino,120.985.463-51,305971483324620,Maria Sophia Nunes,Negra,Ensino Médio,Divorciado(a),Nogueira
+932,Manuela da Luz,1974-11-12,Masculino,698.543.702-83,222510753981510,Eloah Nascimento,Negra,Ensino Médio,Divorciado(a),da Luz
+190,Leandro da Mota,1952-12-31,Masculino,345.916.027-61,205862002699837,Rebeca Lopes,Parda,Ensino Médio,Viúvo(a),Oliveira
+877,Davi Lucca Cardoso,1975-08-31,Feminino,893.756.012-77,75180527778981,Maria Julia Alves,Negra,Ensino Superior,Divorciado(a),Ribeiro
+626,Srta. Juliana Costa,1934-11-10,Masculino,082.754.936-92,458718786183561,Lívia Vieira,Negra,Ensino Médio,Divorciado(a),da Mata da Prata
+921,Dra. Maysa Cavalcanti,1949-11-07,Masculino,380.159.762-86,874861108932340,Maria Luiza Souza,Parda,Ensino Médio,Casado(a),da Luz
+777,Rafaela Moraes,1934-01-31,Feminino,384.671.920-03,886275629485913,Juliana Moreira,Indígena,Ensino Fundamental,Solteiro(a),Azevedo
+725,Evelyn Porto,1949-07-25,Masculino,790.361.825-30,125604092179513,Maria Alice da Costa,Branca,Ensino Superior,Casado(a),da Conceição
+240,Dr. Davi Azevedo,1950-01-26,Masculino,183.207.965-12,738096217350386,Kamilly da Cunha,Amarela,Ensino Médio,Solteiro(a),Costela
+231,Lara Oliveira,1991-11-17,Masculino,405.831.976-39,713651448491227,Daniela Monteiro,Amarela,Ensino Superior,Viúvo(a),Gomes
+284,Enzo Gabriel Gonçalves,1959-01-27,Feminino,782.954.613-46,700120918863047,Rafaela Viana,Amarela,Ensino Fundamental,Divorciado(a),Costa
+140,Cecília da Mota,1980-10-09,Masculino,389.461.725-09,355279266826249,Ana Laura Lopes,Negra,Ensino Fundamental,Casado(a),Rezende
+79,Larissa Santos,1979-04-14,Masculino,502.749.638-92,438091467720516,Dra. Ana Júlia Vieira,Parda,Ensino Superior,Viúvo(a),Silveira
+318,Sofia Rocha,1956-03-17,Masculino,384.105.762-44,725727653240044,Luna das Neves,Amarela,Ensino Superior,Solteiro(a),Almeida do Sul
+606,Dra. Maria Julia da Luz,2005-09-08,Feminino,563.214.798-37,528395078957765,Maria da Conceição,Parda,Ensino Fundamental,Casado(a),Mendes Paulista
+347,Ana Vitória Sales,1942-09-17,Feminino,139.278.560-02,554744271199139,Maria Fernanda Peixoto,Branca,Ensino Médio,Viúvo(a),Fernandes de Pires
+498,Daniel Aragão,1980-02-03,Masculino,436.215.809-05,114265678801723,Juliana Pinto,Branca,Ensino Fundamental,Viúvo(a),Correia do Norte
+451,Maysa Santos,1977-12-12,Masculino,736.218.590-12,429159532278571,Sofia Ribeiro,Amarela,Ensino Médio,Casado(a),Rezende das Pedras
+283,Noah Mendes,1969-07-10,Feminino,320.195.847-60,588138675078395,Sarah Ramos,Negra,Ensino Médio,Solteiro(a),Azevedo de Goiás
+576,Enzo Melo,2003-07-12,Masculino,249.187.350-88,371653917745683,Ana Lívia Silva,Branca,Ensino Superior,Viúvo(a),Moura
+147,Isabella Ferreira,2006-09-03,Masculino,468.157.093-10,35196310161829,Natália Moura,Negra,Ensino Superior,Solteiro(a),Souza de Mendes
+908,Dr. Bruno Barros,1986-11-19,Masculino,549.601.372-07,885524815029194,Dra. Joana das Neves,Amarela,Ensino Superior,Viúvo(a),Rocha das Pedras
+942,Luiz Felipe Azevedo,1963-06-16,Feminino,138.975.604-10,997230550462170,Juliana da Mota,Parda,Ensino Médio,Solteiro(a),da Cunha
+24,Kevin da Conceição,1947-05-10,Masculino,962.350.817-40,11532100583947,Letícia Cardoso,Indígena,Ensino Superior,Solteiro(a),Campos das Pedras
+422,João Vitor Lopes,1987-07-09,Feminino,186.497.203-31,383544082756373,Nicole Fogaça,Indígena,Ensino Fundamental,Viúvo(a),Souza de Minas
+797,Clara da Rocha,1991-09-28,Feminino,756.391.248-73,732177562648041,Maria Sophia Mendes,Parda,Ensino Superior,Divorciado(a),Souza do Galho
+621,Dra. Emanuella Martins,1942-09-01,Masculino,436.198.750-57,979606459486432,Alice Costa,Amarela,Ensino Fundamental,Viúvo(a),Aragão
+518,Juliana Farias,1956-06-23,Feminino,845.071.932-14,761982653175845,Alícia Pereira,Indígena,Ensino Superior,Solteiro(a),Vieira
+547,Nicolas das Neves,1990-01-18,Feminino,236.851.704-90,835874217739593,Sabrina Pinto,Indígena,Ensino Fundamental,Viúvo(a),Ribeiro de da Rocha
+972,Matheus Sales,1970-04-10,Feminino,490.815.627-11,239968072737342,Dra. Luna Martins,Branca,Ensino Médio,Divorciado(a),Silveira
+356,Sra. Juliana Correia,1951-04-19,Masculino,750.128.394-04,736001452921279,Olivia Lima,Negra,Ensino Fundamental,Divorciado(a),Pinto de Ramos
+450,Ana Luiza Ferreira,2006-05-30,Feminino,401.597.368-20,611836518919523,Nina Alves,Negra,Ensino Superior,Casado(a),Monteiro Alegre
+644,Ana Laura da Conceição,1996-02-20,Feminino,160.854.293-98,159860010731691,Srta. Juliana Jesus,Branca,Ensino Superior,Viúvo(a),Correia de Martins
+397,Sra. Ana Freitas,1936-01-30,Feminino,354.127.680-08,947672607308180,Júlia Monteiro,Indígena,Ensino Superior,Divorciado(a),Oliveira de Costela
+653,Agatha Cardoso,1972-04-29,Masculino,465.031.892-06,226881682976328,Marcela Costa,Negra,Ensino Médio,Solteiro(a),Souza
+395,Isis Jesus,1933-09-11,Masculino,642.795.318-46,271478807858641,Ana Lívia Porto,Negra,Ensino Fundamental,Solteiro(a),Lopes
+545,Maria Fernanda da Luz,1947-01-04,Feminino,712.846.530-80,551315999874059,Maysa Ribeiro,Branca,Ensino Médio,Solteiro(a),Pires
+462,Dra. Maysa Rezende,1937-07-14,Feminino,803.529.641-89,610887671251440,Maria Vitória Souza,Indígena,Ensino Fundamental,Solteiro(a),Barros
+239,Raul Lopes,2000-11-11,Masculino,219.803.457-32,415776281982643,Ana Laura da Mata,Negra,Ensino Superior,Divorciado(a),Moraes de da Conceição
+373,Pietro Aragão,1972-08-31,Feminino,425.637.819-73,820236583045800,Stephany Caldeira,Indígena,Ensino Fundamental,Casado(a),Monteiro do Norte
+574,Leonardo Pereira,1976-05-08,Masculino,792.851.063-40,852325488819026,Raquel Pereira,Amarela,Ensino Fundamental,Casado(a),Moura das Flores
+756,Cecília Pires,1956-04-12,Feminino,425.168.703-53,991114280147466,Julia Cardoso,Branca,Ensino Médio,Divorciado(a),Porto Verde
+425,Calebe Moreira,1988-02-12,Feminino,932.810.647-87,457101642096918,Eloah da Cunha,Amarela,Ensino Médio,Solteiro(a),Fernandes de Freitas
+341,Dr. Benício Nascimento,1978-08-19,Masculino,630.197.845-57,906632592445709,Dra. Stephany Silva,Indígena,Ensino Superior,Casado(a),Peixoto do Amparo
+209,Emanuelly Dias,1997-12-20,Feminino,053.149.286-98,142195363623918,Júlia Castro,Branca,Ensino Médio,Casado(a),Dias Alegre
+441,Breno Ramos,1993-03-06,Masculino,954.180.732-14,121618383321827,Ana Julia da Rosa,Indígena,Ensino Médio,Viúvo(a),Jesus do Oeste
+708,Renan Rezende,1960-02-08,Feminino,843.659.120-89,526271910422815,Gabrielly da Paz,Amarela,Ensino Fundamental,Solteiro(a),Pires
